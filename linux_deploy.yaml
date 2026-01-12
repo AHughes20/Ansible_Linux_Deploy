@@ -1,4 +1,4 @@
---
+---
 - name: Getting Devices
   hosts: linux_devices
   gather_facts: yes
